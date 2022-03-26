@@ -33,7 +33,7 @@ I am a B.Sc student for Computer Science in my 2nd year from Israel.
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Icons8_flat_linux.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Icons8_flat_linux.svg" title="Linux" alt="Linux" width="43" height="43"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/elastic-stack.svg" title="Elastic Stack" alt="Elastic Stack" width="40" height="40"/>&nbsp;
 </div>
