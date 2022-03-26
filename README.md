@@ -18,7 +18,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a B.Sc student for Computer Science in my 2nd year <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Israel.
+I am a B.Sc student for Computer Science in my 2nd year from Israel.
 - 📈: intrested in the Stock market.
 
 - :zap: In my free time, I`m learning and exploring new sections from Udemy.
