@@ -25,7 +25,7 @@ I am a B.Sc student for Computer Science in my 2nd year from Israel.
 
 - :zap: In my free time, I`m a gamer, and enriching my knowledge with Udemy courses.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/roy-edri)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/roy-edri)
 
 ---
 
