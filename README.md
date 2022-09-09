@@ -18,7 +18,8 @@
 ---
 
 ### :man_technologist: About Me :
-I am a B.Sc student for Computer Science in my 2nd year from Israel.
+DevOps Engineer at Start.io ( Formerly Known as Startapp).
+B.Sc student for Computer Science in my 2nd year.
 - 📈: intrested in the Stock market.
 
 - :computer: intrested in the DevOps section.
