@@ -18,7 +18,7 @@
 ---
 
 ### :man_technologist: About Me :
-Open for job opportunities.
+Open for job opportunities.  
 Worked as a DevOps Engineer at Start.io ( Formerly Known as Startapp).  
 B.Sc student for Computer Science in my 3rd year.
 - 📈: intrested in the Stock market.
